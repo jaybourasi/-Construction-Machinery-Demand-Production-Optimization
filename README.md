@@ -32,13 +32,13 @@ This project followed a structured data-driven methodology using multiple tools:
 - Applied **wrangling techniques** and **feature engineering**.
 - Performed **Exploratory Data Analysis (EDA)** for deeper insights.
 
-🔗 **Python Script:** [Click here to access Python code](https://github.com/jaybourasi/Demand-Production-Optimization-of-Construction-Units/blob/main/Excel%20to%20Python%20(Code).py)
+🔗 **Python Script:** [Click here to access Python code](https://github.com/jaybourasi/Construction-Machinery-Demand-and-Production-Optimization/blob/main/Excel%20to%20Python%20(Code).py)
 
 ### 🛢 **PostgreSQL (Database Storage & Querying)**
 - Stored processed data in **PostgreSQL**.
 - Used **SQL queries** to extract valuable insights.
 
-🔗 **SQL Queries:** [Click here to access SQL file](https://github.com/jaybourasi/Demand-Production-Optimization-of-Construction-Units/blob/main/EDA%20(SQL%20Code).sql)
+🔗 **SQL Queries:** [Click here to access SQL file](https://github.com/jaybourasi/Construction-Machinery-Demand-and-Production-Optimization/blob/main/EDA%20(SQL%20Code).sql)
 
 ### 📊 **Power BI (Data Visualization)**
 - Imported database into **Power BI** to create **interactive dashboards** visualizing:
@@ -55,7 +55,7 @@ This project followed a structured data-driven methodology using multiple tools:
 ### 📢 **PowerPoint (Presentation)**
 - Summarized key insights & recommendations in **PowerPoint slides** for stakeholders.
 
-🔗 **Presentation:** [Click here to view Presentaion PDF](https://github.com/jaybourasi/Demand-Production-Optimization-of-Construction-Units/blob/main/Jay's%20Final%20Presentation.pdf)
+🔗 **Presentation:** [Click here to view Presentaion PDF](https://github.com/jaybourasi/Construction-Machinery-Demand-and-Production-Optimization/blob/main/Jay's%20Final%20Presentation.pdf)
 
 ---
 
