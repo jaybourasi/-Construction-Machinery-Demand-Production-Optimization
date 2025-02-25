@@ -1,0 +1,2 @@
+# -Construction-Machinery-Demand-Production-Optimization
+This project optimizes demand analysis and production planning for a construction machinery manufacturer. Using Excel, Python, PostgreSQL, Power BI, and PowerPoint, it improves efficiency, reduces lead time, and cuts inventory costs. The workflow covers data cleaning, analysis, storage, visualization, and presentation for better decision-making.
