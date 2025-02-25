@@ -90,7 +90,7 @@ This project followed a structured data-driven methodology using multiple tools:
    - **On-Time Delivery Rate:** **32.83%**  
    - **Inventory Utilization Rate:** **8.84%** (indicating overstock issues).  
 
-🔗 **Order Trends & Demand Analysis:**
+**Order Trends & Demand Analysis:**
 ![Order Trends & Demand](https://github.com/jaybourasi/Construction-Machinery-Demand-and-Production-Optimization/blob/main/Images/Order%20Trends%20%26%20Demand.png)
 ---
 
@@ -115,7 +115,7 @@ This project followed a structured data-driven methodology using multiple tools:
    - **Highest Lead Time:** **May 7, 2023 (117 days)**  
    - **Lowest Lead Time:** **June 19, 2023 (5 days)**  
 
-🔗 **Production & Delay Insights:**
+**Production & Delay Insights:**
 ![Production & Delay Insights](https://github.com/jaybourasi/Construction-Machinery-Demand-and-Production-Optimization/blob/main/Images/Production%20%26%20Delay.png)
 ---
 
@@ -144,7 +144,7 @@ This project followed a structured data-driven methodology using multiple tools:
 6. **Order Volatility Over Time**  
    - **2023 had the most high-volatility spikes**.  
 
-🔗 **Inventory Management:**
+**Inventory Management:**
 ![Inventory Management](https://github.com/jaybourasi/Construction-Machinery-Demand-and-Production-Optimization/blob/main/Images/Inventory%20Management.png)
 ---
 
