@@ -47,10 +47,10 @@ This project followed a structured data-driven methodology using multiple tools:
   - Inventory utilization
 
 🔗 **Dashboard Images:**
-1. [Landing Page](https://github.com/jaybourasi/Construction-Machinery-Demand-and-Inventory-Optimization/blob/main/Images/Landing%20Page.png)
-2. [Order Trends & Demand Analysis](https://github.com/jaybourasi/Demand-Production-Optimization-of-Construction-Units/blob/main/Images/Order%20Trends%20%26%20Demand.png)
-3. [Production & Delay Insights](https://github.com/jaybourasi/Demand-Production-Optimization-of-Construction-Units/blob/main/Images/Production%20%26%20Delay.png)
-4. [Inventory Management](https://github.com/jaybourasi/Demand-Production-Optimization-of-Construction-Units/blob/main/Images/Inventory%20Management.png)
+1. [Landing Page](https://github.com/jaybourasi/Construction-Machinery-Demand-and-Production-Optimization/blob/main/Images/Landing%20Page.png)
+2. [Order Trends & Demand Analysis](https://github.com/jaybourasi/Construction-Machinery-Demand-and-Production-Optimization/blob/main/Images/Order%20Trends%20%26%20Demand.png)
+3. [Production & Delay Insights](https://github.com/jaybourasi/Construction-Machinery-Demand-and-Production-Optimization/blob/main/Images/Production%20%26%20Delay.png)
+4. [Inventory Management](https://github.com/jaybourasi/Construction-Machinery-Demand-and-Production-Optimization/blob/main/Images/Inventory%20Management.png)
 
 ### 📢 **PowerPoint (Presentation)**
 - Summarized key insights & recommendations in **PowerPoint slides** for stakeholders.
@@ -91,7 +91,7 @@ This project followed a structured data-driven methodology using multiple tools:
    - **Inventory Utilization Rate:** **8.84%** (indicating overstock issues).  
 
 🔗 **Order Trends & Demand Analysis:**
-![Order Trends & Demand](https://github.com/jaybourasi/Demand-Production-Optimization-of-Construction-Units/blob/main/Images/Order%20Trends%20%26%20Demand.png)
+![Order Trends & Demand](https://github.com/jaybourasi/Construction-Machinery-Demand-and-Production-Optimization/blob/main/Images/Order%20Trends%20%26%20Demand.png)
 ---
 
 ### 📌 **2nd Dashboard: Production & Delay Insights**
@@ -116,7 +116,7 @@ This project followed a structured data-driven methodology using multiple tools:
    - **Lowest Lead Time:** **June 19, 2023 (5 days)**  
 
 🔗 **Production & Delay Insights:**
-![Production & Delay Insights](https://github.com/jaybourasi/Construction-Machinery-Demand-and-Inventory-Optimization/blob/main/Images/Production%20%26%20Delay.png)
+![Production & Delay Insights](https://github.com/jaybourasi/Construction-Machinery-Demand-and-Production-Optimization/blob/main/Images/Production%20%26%20Delay.png)
 ---
 
 ### 📌 **3rd Dashboard: Inventory Management**
@@ -145,7 +145,7 @@ This project followed a structured data-driven methodology using multiple tools:
    - **2023 had the most high-volatility spikes**.  
 
 🔗 **Inventory Management:**
-![Inventory Management](https://github.com/jaybourasi/Construction-Machinery-Demand-and-Inventory-Optimization/blob/main/Images/Inventory%20Management.png)
+![Inventory Management](https://github.com/jaybourasi/Construction-Machinery-Demand-and-Production-Optimization/blob/main/Images/Inventory%20Management.png)
 ---
 
 ## 📬 Let's Connect!  
