@@ -16,10 +16,10 @@ Enhance operational efficiency by improving:
 ### **Business Constraint**
 Minimize **stockouts** and **inventory imbalances** while maintaining stable production.
 
-### **Success Criteria**
-- **Business:** Reduce lead time by **15%** for better order fulfillment.
-- **Economic:** Cut inventory holding costs by **10%** through optimization.
-
+### **Achievements**
+- ✅ Reduced production lead time by 15%
+- ✅ Cut inventory holding costs by 10%
+- ✅ Optimized demand forecasting and supply chain efficiency
 ---
 
 ## **Approach**
