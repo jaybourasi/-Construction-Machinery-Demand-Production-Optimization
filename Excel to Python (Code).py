@@ -523,36 +523,10 @@ from sqlalchemy import create_engine
 
 # PostgreSQL connection details
 db_name = "Cleaned_Project3"
-user = "postgres"
-password = "jay@99"  # Your password contains '@', so we must encode it.
-host = "localhost"
+user = "####"
+password = "####"
+host = "#####"
 port = "5433"
-
-# Encode the password correctly
-encoded_password = urllib.parse.quote_plus(password)
-
-# Create a connection to PostgreSQL
-engine = create_engine(f"postgresql://{user}:{encoded_password}@{host}:{port}/{db_name}")
-
-# Define table name
-table_name = "demand_production_data"
-
-# Load the DataFrame into PostgreSQL
-df.to_sql(table_name, engine, if_exists="replace", index=False)
-
-print("✅ Data successfully loaded into PostgreSQL!")
-
-
-################## Python To SQL For Server 16 ###################################
-import urllib.parse
-from sqlalchemy import create_engine
-
-# PostgreSQL connection details
-db_name = "Project3_Cleaned"
-user = "postgres"
-password = "jay1029"  # Your password contains '@', so we must encode it.
-host = "localhost"
-port = "5432"
 
 # Encode the password correctly
 encoded_password = urllib.parse.quote_plus(password)
